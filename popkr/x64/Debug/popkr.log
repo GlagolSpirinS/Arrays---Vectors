@@ -1,0 +1,3 @@
+﻿  popkr.cpp
+C:\Users\root\Desktop\popkr\popkr\popkr.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  popkr.vcxproj -> C:\Users\root\Desktop\popkr\x64\Debug\popkr.exe
